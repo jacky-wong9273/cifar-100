@@ -1,4 +1,4 @@
-# 🖼️ CIFAR-100 Image Classification with ConvNeXt
+# 🖼️ CIFAR-100 Image Classification with ConvNeXt-styled Architecture
 
 ## 📖 Introduction
 
